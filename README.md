@@ -1,6 +1,6 @@
 # wadExport-Release
 League of Legends WAD File Export and Save<br>
-function : Export wad1.1, wad2.0, wad2.1, wad3.0, wad3.1; save wad3.1<br>
+function : Export wad1.1, wad2.0, wad2.1, wad3.0, wad3.1; Save wad3.1<br>
 wadExport tool is free<br><br>
 
 Video<br>
