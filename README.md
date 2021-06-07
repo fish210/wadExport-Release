@@ -3,6 +3,10 @@ League of Legends WAD File Export and Save<br>
 function : Export wad1.1, wad2.0, wad2.1, wad3.0, wad3.1; save wad3.1<br>
 wadExport tool is free<br><br>
 
+Video<br>
+https://www.bilibili.com/video/BV1TU4y1j7Ey<br>
+https://www.bilibili.com/video/BV1A64y1R7dm<br><br>
+
 解包wad文件所有版本, 包含 wad1.1, wad2.0, wad2.1, wad3.0, wad3.1, 封包 wad3.1 文件<br>
 WAD解包器是免费的<br><br>
 
